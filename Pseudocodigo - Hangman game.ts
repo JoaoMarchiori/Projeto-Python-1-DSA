@@ -1,6 +1,5 @@
 
 
-
 Hangman Game
 Pseudocódigo
 
@@ -33,3 +32,8 @@ Pseudocódigo
 7. **Finalização do Jogo:**
    - Exibir uma mensagem de agradecimento ou despedida.
 
+
+
+
+
+   
